@@ -36,7 +36,7 @@ const studyFlow = {
   links: [
     { label: "View Case Study", href: "https://www.behance.net/gallery/254917853/StudyFlow-An-AI-Powered-Study-Companion?platform=direct", icon: FileText, primary: true },
     { label: "Live Demo", href: "https://studyflow-v2-navy.vercel.app", icon: ExternalLink, primary: false },
-    { label: "GitHub", href: "#", icon: GithubIcon, primary: false },
+    { label: "GitHub", href: "https://github.com/Mercified6", icon: GithubIcon, primary: false },
   ],
   stats: [
     { num: "10K+", lbl: "Active Students" },
@@ -53,7 +53,7 @@ const mailMint = {
   desc: "An AI-powered email marketing platform designed to simplify campaign creation, audience management, and performance tracking, making professional email marketing accessible to everyone.",
   links: [
     { label: "Live Demo", href: "https://mailmintai.vercel.app", icon: ExternalLink, primary: true },
-    { label: "GitHub", href: "#", icon: GithubIcon, primary: false },
+    { label: "GitHub", href: "https://github.com/Mercified6", icon: GithubIcon, primary: false },
   ],
   stats: [
     { num: "12", lbl: "Active Campaigns" },
