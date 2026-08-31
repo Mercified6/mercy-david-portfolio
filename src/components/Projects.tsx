@@ -34,8 +34,8 @@ const studyFlow = {
   badge: "Featured Project",
   image: "/desktop-mockup02-screen.png",
   links: [
-    { label: "Live Demo", href: "https://studyflow-v2-navy.vercel.app", icon: ExternalLink, primary: true },
-    { label: "View Case Study", href: "https://www.behance.net/gallery/254917853/StudyFlow-An-AI-Powered-Study-Companion?platform=direct", icon: FileText, primary: false },
+    { label: "View Case Study", href: "/studyflow", icon: FileText, primary: true },
+    { label: "Live Demo", href: "https://studyflow-v2-navy.vercel.app", icon: ExternalLink, primary: false },
     { label: "GitHub", href: "#", icon: GithubIcon, primary: false },
   ],
   stats: [
