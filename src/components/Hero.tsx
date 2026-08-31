@@ -61,7 +61,6 @@ export default function Hero() {
                 width={1920}
                 height={1440}
                 priority
-                sizes="(min-width: 1024px) calc(100vw - 560px), 92vw"
                 className="w-full h-auto block lg:-mt-[12.2%]"
               />
             </div>
